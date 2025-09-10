@@ -1,0 +1,12 @@
+{
+    "projeisimleri":{
+        "proje1" : "Sohbetkar",
+        "proje2" : "Hazine Avı",
+        "proje3" : "FRC - First Robotics Competition"
+    },
+    "projeparagraflari":{
+        "Sohbetkar" : "Sohbetkar, kullanıcıların anlık mesajlaşma yapabildiği bir uygulama geliştirmeyi amaçlamaktadır. Kullanıcılar, sohbet odalarına katılabilir, çevrimiçi diğer kullanıcıları görebilir ve anlık mesajlar gönderebilir. Sohbetkar, WPF ile kullanıcı arayüzü tasarımı, ASP.NET Core Web API ve SignalR ile gerçek zamanlı veri aktarımı ve MongoDB ile veri saklama teknolojilerini kullanarak hızlı, güvenli, kullanıcı dostu ve duyarlı bir mesajlaşma deneyimi sunmaktadır.",
+        "HazineAvi" : "Hazine Avı, Unity ile geliştirip kendi assetlerimi ve ücretsiz bir kaç tane asseti kullanarak yaptığım ilk oyundur. Oyunun amacı anahtarı alıp sandığa en hızlı şekilde ulaşmaktır. Bu oyunu yaparken animasyon, illustration, SFX oluşturma, c++ da animasyon ve trigger ayarları, zamanlama gibi bir kaç önemli fonksiyon ve uygulamayı kullanıp başarılı bir şekilde üniversitede kısıtlı zaman içerisinde çıkarttığım bir oyundur.",
+        "FRC" : "FRC - First Robotics Competition uluslarası bir otonom/mekanik robot yapma yarışmasıdır. Lisede katıldığım bu yarışmada takımıma yazılım ve mekanik alanlarında liderlik edip Türkiyeden Houstonda yapılacak finallere gitmeye hak kazanan 3 takımdan biri olarak derece elde ettik. "
+    }
+}
