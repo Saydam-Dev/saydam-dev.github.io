@@ -26,9 +26,9 @@ function MainContent(){
                     <h2 className="text-sm font-bold uppercase tracking-widest text-slate-200 lg:sr-only">Projelerim</h2>
                 </div>
                 <ul className="group/list">
-                    <Projects projeismi={ParagrafSozlugu.projeisimleri["proje1"]} resim={img1} briefexplanation={ParagrafSozlugu.briefexplanation["Sohbetkar"]}/>
-                    <Projects projeismi={ParagrafSozlugu.projeisimleri["proje2"]} resim={img2} briefexplanation={ParagrafSozlugu.briefexplanation["HazineAvi"]}/>
-                    <Projects projeismi={ParagrafSozlugu.projeisimleri["proje3"]} resim={img3} briefexplanation={ParagrafSozlugu.briefexplanation["FRC"]}/>
+                    <Projects projelinki={"https://github.com/Saydam-Dev/Sohbetkar"} projeismi={ParagrafSozlugu.projeisimleri["proje1"]} resim={img1} briefexplanation={ParagrafSozlugu.briefexplanation["Sohbetkar"]}/>
+                    <Projects projelinki={"https://github.com/Saydam-Dev/TreasureHuntMiniGame"} projeismi={ParagrafSozlugu.projeisimleri["proje2"]} resim={img2} briefexplanation={ParagrafSozlugu.briefexplanation["HazineAvi"]}/>
+                    <Projects projelinki={"https://www.linkedin.com/in/cybergriffins-8070/?originalSubdomain=tr"} projeismi={ParagrafSozlugu.projeisimleri["proje3"]} resim={img3} briefexplanation={ParagrafSozlugu.briefexplanation["FRC"]}/>
                 </ul>
                 <CurriculumVitae/>
             </section>
